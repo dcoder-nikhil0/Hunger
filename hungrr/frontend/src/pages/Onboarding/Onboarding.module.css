@@ -1,0 +1,11 @@
+.safe-area{
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
+.hide-scrollbar{
+    scrollbar-width:none;
+}
+
+.hide-scrollbar::-webkit-scrollbar{
+    display:none;
+}
