@@ -1,0 +1,10 @@
+Primary color - #FFDE21
+Secondary - #000000
+#FFF09A
+#FFFFFF
+#FAFAFA
+#2D2D2D
+#FFCC00
+#138808
+#34C759
+#980404
